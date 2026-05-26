@@ -1,2 +1,2 @@
-# Old-Gamea-Repo
+# Old-Games-Repo
 Old Games Repo
